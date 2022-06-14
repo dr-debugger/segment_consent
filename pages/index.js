@@ -14,7 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <Link href="/argha" passHref={true}>
-          <a>Visit Arghya</a>
+          <a>Add to Cart</a>
         </Link>
       </main>
 
